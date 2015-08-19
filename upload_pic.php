@@ -1,9 +1,6 @@
 <?php 
 include 'config.php';
 
-#$ftp_server="webcam.wunderground.com"; 
-#$ftp_user_name="bradthxCAM1"; 
-#$ftp_user_pass="theword8899"; 
 $file = "/home/wunder/image.jpg";//tobe uploaded 
 $remote_file = "image.jpg"; 
 
